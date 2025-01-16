@@ -1,0 +1,111 @@
+{
+  "qa_solution": {
+    "schedule": {
+      "0": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          7
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "1": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          6
+        ]
+      ]
+    },
+    "makespan": 9,
+    "computation_time": 3.858797073364258,
+    "energy": -4.0,
+    "num_reads": 100,
+    "convergence": [
+      9
+    ]
+  },
+  "ga_solution": {
+    "schedule": [
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "makespan": 5,
+    "computation_time": 0.0007979869842529297,
+    "convergence": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "generations": 10
+  },
+  "ts_solution": {
+    "schedule": {
+      "1": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "0": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          2
+        ]
+      ]
+    },
+    "makespan": 5,
+    "computation_time": 0.00015926361083984375,
+    "iterations": 10,
+    "convergence": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
+  }
+}
